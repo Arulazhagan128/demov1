@@ -1,16 +1,16 @@
 resource "genesyscloud_routing_skill" "example_skill" {
-  name = "Example Skill"
+  name = "subbranch skill"
 }
 
 resource "genesyscloud_routing_skill" "example_skill2" {
-  name = "Example Skill2"
+  name = "subbranch skill2"
 }
 
 resource "genesyscloud_routing_skill" "example_skill" {
-  name = "Example Skill"
+  name = "subbranch skill"
 }
 
 resource "genesyscloud_routing_skill" "example_skill2" {
-  name = "test arul"
+  name = "subbranch skill2"
 }
 
